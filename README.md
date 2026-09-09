@@ -1,1 +1,3 @@
-# probability-theory
+# Теория вероятностей для систем ИИ
+
+* [Практика 1. Комбинаторика](prac-01-combinatorics/prac1.ipynb)
